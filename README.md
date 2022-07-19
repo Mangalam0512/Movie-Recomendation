@@ -93,3 +93,10 @@ Contributing is also a great way to learn more about social coding on Github, ne
 
 - For solving an issue/adding a feature, write the code ***after*** the original code finishes and do not forget to add the issue name and number as a heading in the notebook.
 - Before Submitting the PR, make sure to have a link of colab notebook of the feature/issue solved so that we can check easily. This even applies to those who are doing on anaconda.
+
+## Authors
+
+<a href="https://github.com/Mangalam0512/Movie-Recomendation/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Mangalam0512/Movie-Recomendation" />
+</a>
+
